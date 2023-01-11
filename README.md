@@ -1,8 +1,6 @@
 # taylor-series-of-sinx-assembly
-implementation of taylor series of sin(x) in assembly 
+implementation of taylor series of sin(x) in assembly (RISC-V architecture)
 
-
-### assembly code for instruction of RISC-V architecture
 
 ## Concepts used in coding:
 * floating point registers and related operation
